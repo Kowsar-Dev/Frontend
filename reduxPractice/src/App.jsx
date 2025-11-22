@@ -5,7 +5,7 @@ import { decrement, increment } from './features/counter/counterSlice.js'
 
 function App() {
   const dispatch = useDispatch()
-  const count = useSelector ( (state)=>state.counter.value)
+  const count = useSelector ( (state)=>state.counter.count)
   return (
     <div className='bg-gray-200 h-[120px] w-80 m-80 justify-center items-center text-center'>
       <h1>hello</h1>
