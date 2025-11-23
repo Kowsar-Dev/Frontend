@@ -1,6 +1,7 @@
 import React from 'react'
 import { configureStore } from '@reduxjs/toolkit'
-import {notesApi} from "../features/notesApi"
+import notesApi  from "../features/notesApi.js";
+
 
 const store = configureStore({
     reducer :{
@@ -10,4 +11,4 @@ const store = configureStore({
         getDefaultMiddleware().concat(notesApi.middleware)
 })
 
-export default store
+export default store;

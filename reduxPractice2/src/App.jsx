@@ -1,13 +1,17 @@
 import { useState } from 'react'
 
 import './App.css'
+import NoteList from './components/NoteList'
+import NoteFrom from './components/NoteFrom'
 
 function App() {
 
 
   return (
     <>
-      <h1>hello</h1>
+      <NoteList/>
+      <br />
+      <NoteFrom/>
     </>
   )
 }

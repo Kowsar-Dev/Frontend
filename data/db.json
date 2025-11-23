@@ -1,5 +1,5 @@
 {
-  "users": [
+  "notes": [
     {
       "id": "fd0e",
       "name": "Kowsar ahmed",
@@ -22,7 +22,7 @@
     },
     {
       "id": "f2c7",
-      "name": "MD Mormo",
+      "name": "mormo",
       "email": "mormo@gmail.com"
     },
     {
@@ -51,19 +51,14 @@
       "email": "lion@gmail.com"
     },
     {
-      "id": "b7bd",
-      "name": "ridoy roy",
-      "email": "mahi@gamil.com"
+      "id": "0299",
+      "name": "Sabbir Ahmed",
+      "email": "sabbir@gamil.com"
     },
     {
-      "id": "7868",
-      "name": "MD Mahi",
-      "email": "kowsar132@gmail.com"
-    },
-    {
-      "id": "da7c",
-      "name": "MD RIDOY",
-      "email": "ridoy@gmail.com"
+      "id": "b32b",
+      "name": "Tanjir Ahmed",
+      "email": "tanjir@gmail.com"
     }
   ]
 }
